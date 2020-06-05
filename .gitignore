@@ -1,4 +1,5 @@
-
+data/
+datasets/
 # Created by https://www.gitignore.io/api/jupyternotebooks,python
 # Edit at https://www.gitignore.io/?templates=jupyternotebooks,python
 
