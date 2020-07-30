@@ -7,6 +7,6 @@
 ## Intro
 Repository to collect all study material in an effort to consolidate all this stuff and prevent GitHub account from getting littered with forgotten notes and worked out problem sets. 
 
-## Hands-On Machine Learning
+## Hands-On Machine Learning - Geron
 
-## fast.ai ML
+## fast.ai Machine Learning MooC
