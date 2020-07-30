@@ -1,7 +1,7 @@
 # study-stuff
 ## Table of Contents
 1. [Introduction](##Intro)
-2. [Hands-On Machine Learning - Geron](##Hands-On Machine Learning)
+2. [Hands-On Machine Learning - Geron](##Hands-On Machine Learning - Geron)
 3. [fast.ai Machine Learning MooC](##fast.ai ML)
 
 ## Intro
